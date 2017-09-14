@@ -447,6 +447,7 @@ public class HomeRecycleAdapter extends RecyclerView.Adapter<RecyclerView.ViewHo
                             .into(view);
                 }
             });
+            //TODO
             //设置点击事件
             banner.setOnBannerClickListener(new OnBannerClickListener() {
                 @Override
